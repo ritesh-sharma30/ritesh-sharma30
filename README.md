@@ -120,7 +120,7 @@
 
 <div align="center">
 
-<a href="www.linkedin.com/in/ritesh-30-sharma" target="_blank">
+<a href="https://linkedin.com/in/ritesh-30-sharma" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
